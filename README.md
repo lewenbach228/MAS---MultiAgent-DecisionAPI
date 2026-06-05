@@ -19,7 +19,7 @@ flowchart TD
         CACHE{Redis ?}
         LLM[Extraction LLM<br/>Gemini]
         GRAPH[Graphe NetworkX<br/>ajustement poids]
-        SCORE[Calcul U = Σ(w × f(x))]
+        SCORE["U = Somme(w * f(x))"]
         DB[(PostgreSQL<br/>décisions)]
     end
 
