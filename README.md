@@ -1,4 +1,4 @@
-# Decision API — Agent de scoring décisionnel multi-critères
+# Assistant de Présélection IA — Agent de scoring décisionnel multi-critères
 
 Un agent **Utility-based** qui transforme un CV brut en décision justifiée : extraction LLM → graphe de dépendances → fonction d'utilité → score final avec breakdown complet. Docker Compose up en 30s.
 
